@@ -1,0 +1,11 @@
+This is the Modulos_J1C_02-write-a-block package meant as a guide to building
+out-of-tree packages. To use the Modulos_J1C_02 blocks, the Python namespaces
+is in 'Modulos_J1C_02', which is imported as:
+
+    import Modulos_J1C_02
+
+See the Doxygen documentation for details about the blocks available
+in this package. A quick listing of the details can be found in Python
+after importing by using:
+
+    help(Modulos_J1C_02)
