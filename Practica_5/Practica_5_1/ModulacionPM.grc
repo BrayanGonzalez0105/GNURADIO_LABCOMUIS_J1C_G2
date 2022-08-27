@@ -1,6 +1,6 @@
 options:
   parameters:
-    author: Fabian y kevin
+    author: Brayan_Gonzalez
     catch_exceptions: 'True'
     category: '[GRC Hier Blocks]'
     cmake_opt: ''
@@ -11,7 +11,7 @@ options:
     gen_linking: dynamic
     generate_options: qt_gui
     hier_block_src_path: '.:'
-    id: Modulacion_PM_J1C_04
+    id: Modulacion_PM_J1C
     max_nouts: '0'
     output_language: python
     placement: (0,0)
@@ -22,7 +22,7 @@ options:
     run_options: prompt
     sizing_mode: fixed
     thread_safe_setters: ''
-    title: Modulacion PM J1C04
+    title: Modulacion_PM_J1C
     window_size: (1000,1000)
   states:
     bus_sink: false
@@ -171,8 +171,8 @@ blocks:
     coordinate: [184, 12]
     rotation: 0
     state: enabled
-- name: CalculoPotencia_J1C_04_0
-  id: CalculoPotencia_J1C_04
+- name: Calculo_Potencia_J1C
+  id: Calculo_Potencia_J1C
   parameters:
     affinity: ''
     alias: ''
@@ -186,7 +186,7 @@ blocks:
     coordinate: [888, 556.0]
     rotation: 0
     state: true
-- name: Envolvente_Compleja_PM_J1C_0
+- name: Envolvente_Compleja_PM_J1C
   id: Envolvente_Compleja_PM_J1C
   parameters:
     Ac: Ac
