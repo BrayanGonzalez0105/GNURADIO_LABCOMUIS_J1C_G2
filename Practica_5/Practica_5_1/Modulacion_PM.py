@@ -6,7 +6,7 @@
 #
 # GNU Radio Python Flow Graph
 # Title: Modulacion PM J1C04
-# Author: Fabian y kevin
+# Author: Brayan Gonzalez
 # Copyright: UIS
 # GNU Radio version: 3.9.5.0
 
