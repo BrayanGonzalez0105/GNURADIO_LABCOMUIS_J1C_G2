@@ -5,8 +5,8 @@
 # SPDX-License-Identifier: GPL-3.0
 #
 # GNU Radio Python Flow Graph
-# Title: Modulacion PM J1C04
-# Author: Brayan Gonzalez
+# Title: Modulacion_PM_J1C
+# Author: Brayan_Gonzalez
 # Copyright: UIS
 # GNU Radio version: 3.9.5.0
 
