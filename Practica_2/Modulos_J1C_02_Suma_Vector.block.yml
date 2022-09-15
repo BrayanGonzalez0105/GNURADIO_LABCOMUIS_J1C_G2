@@ -1,0 +1,25 @@
+id: Modulos_J1C_02_Suma_Vector
+label: Suma_Vector
+category: '[Modulos_J1C_02]'
+
+templates:
+  imports: import Modulos_J1C_02
+  make: Modulos_J1C_02.Suma_Vector(${PARAM1})
+
+
+parameters:
+- id: PARAM1
+  label: l_vect
+  dtype: int
+
+
+inputs:
+- label: entrada
+  dtype: float
+  vlen: ${PARAM1}
+
+outputs:
+- label: Salida
+  dtype: float
+
+file_format: 1
